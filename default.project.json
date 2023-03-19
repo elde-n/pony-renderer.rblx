@@ -1,0 +1,6 @@
+{
+	"name": "renderer",
+	"tree": {
+		"$path": "src/"
+	}
+}
